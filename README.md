@@ -10,4 +10,4 @@ This project involves a comprehensive analysis of 5G Quality of Service (QoS) fo
 
 ![download](https://github.com/ArshamGill24/5G-QoS-Analysis/assets/140661164/07488621-577c-4bea-8ba7-48ac62937fce)
 
-📧 For full documentation and presentation, contact me at gillarsham35@gmail.com.
+📧 For full documentation, contact me at gillarsham35@gmail.com.
